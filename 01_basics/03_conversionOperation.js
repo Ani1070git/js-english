@@ -19,6 +19,20 @@ let booleanIsLoggedIn = Boolean(isLoggedIn);
 let someNumber = 90 ;
 
 let StringNumber = String(someNumber);
-console.log(StringNumber);
+//console.log(StringNumber);
 
-console.log(typeof StringNumber);
+//console.log(typeof StringNumber);
+
+
+// operations 
+
+let str1 = "hello"
+
+let str2 = "Ani"
+
+let str3 = str1 + " " + str2;
+console.log(str3)
+
+//"1" + 2 => 12
+//1 + "2" => 12
+//"1" + 2 + 2 => 122 but 1 + 2 + "2" => 32
