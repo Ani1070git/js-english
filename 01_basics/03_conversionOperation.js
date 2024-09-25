@@ -11,7 +11,7 @@ let valueInNumber = Number(score)
 //true => 1 ; false => 0 ;
 
 let isLoggedIn = 1;
-//if we keeo the above value empty "" or 0 then it is false
+//if we keep the above value empty "" or 0 then it is false
 //but true for "ani"
 let booleanIsLoggedIn = Boolean(isLoggedIn);
 //console.log(booleanIsLoggedIn); 
